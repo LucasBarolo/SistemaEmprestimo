@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Emprestimo.exe
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Emprestimo.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Emprestimo.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Emprestimo.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Emprestimo.dll
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Emprestimo.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Emprestimo.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Emprestimo.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Emprestimo.dll
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Emprestimo.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Emprestimo.genruntimeconfig.cache
